@@ -1,5 +1,5 @@
 # Valix Consulting Audit Reports
-This repository contains only public audit reports and we have many private projects that cannot publish here.
+This repository contains only public audit reports; we have several private reports that would not be published here.
 
 <br>
 
